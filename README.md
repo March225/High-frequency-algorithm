@@ -8,5 +8,6 @@
 2. 二分查找
 3. 并查集
 4. 字符串类封装
+5. 单例模式
 ### CSDN地址
 代码也同步更新到了CSDN博客上：https://blog.csdn.net/m0_37433111/category_10193802.html
