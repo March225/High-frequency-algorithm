@@ -1,5 +1,5 @@
 # High-frequency-algorithm
-总结一下面试中常见的高频算法
+总结一下面试中常见的高频算法，详细介绍请见具体的文件夹。
 ### 运行环境
 * Windows10
 * Visual Studio 2019
